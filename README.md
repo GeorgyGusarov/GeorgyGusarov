@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Georgyi Gusarov
+### Hi there 👋 I'm Georgy Gusarov
 
 * 💻 I'm Junior software engineer.
 * ☕ Most of the time I spend writing Java.
