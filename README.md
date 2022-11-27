@@ -1,6 +1,6 @@
 ### Hi there 👋 My name's George
 
-* 💻 I'm Junior software engineer.
+* 💻 I'm Junior Software Engineer.
 * ☕ Most of the time I spend writing with JavaScript, HTML & CSS.
 * 🚀 I have a few pet projects which I'm growing here at GitHub.
 * 📫 Feel free to reach me by email [gogalsh@gmail.com](mailto:gogalsh@gmail.com).
