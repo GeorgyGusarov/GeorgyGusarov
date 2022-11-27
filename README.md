@@ -8,7 +8,7 @@
 ![java](https://img.shields.io/static/v1?logo=java&style=for-the-badge&label=java&message=intermediate)
 ![javascript](https://img.shields.io/static/v1?logo=javascript&style=for-the-badge&label=javascript&message=beginner)
 ![html5](https://img.shields.io/static/v1?logo=html5&style=for-the-badge&label=html5&message=beginner)
-![css](https://img.shields.io/static/v1?logo=css3&style=for-the-badge&label=css3&message=beginner)
+![css3](https://img.shields.io/static/v1?logo=css3&style=for-the-badge&label=css3&message=beginner)
 
 ### 🤝 To keep in touch
 
