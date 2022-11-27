@@ -6,7 +6,7 @@
 * 📫 Feel free to reach me by email [gogalsh@gmail.com](mailto:gogalsh@gmail.com).
 
 ![java](https://img.shields.io/static/v1?logo=java&style=for-the-badge&label=java&message=intermediate)
-![java script](https://img.shields.io/static/v1?logo=java&style=for-the-badge&label=java&message=beginner)
+![java script](https://img.shields.io/static/v1?logo=java-script&style=for-the-badge&label=java-script&message=beginner)
 
 ### 🤝 To keep in touch
 
